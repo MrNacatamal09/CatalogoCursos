@@ -1,0 +1,15 @@
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\bin\Debug\net9.0\CatalogoCursos-CSharp.exe
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\bin\Debug\net9.0\CatalogoCursos-CSharp.deps.json
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\bin\Debug\net9.0\CatalogoCursos-CSharp.runtimeconfig.json
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\bin\Debug\net9.0\CatalogoCursos-CSharp.dll
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\bin\Debug\net9.0\CatalogoCursos-CSharp.pdb
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.AssemblyInfoInputs.cache
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.AssemblyInfo.cs
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.sourcelink.json
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.dll
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\refint\CatalogoCursos-CSharp.dll
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.pdb
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\CatalogoCursos-CSharp.genruntimeconfig.cache
+C:\Users\adolf\Documents\CatalogoCursos-CSharp\obj\Debug\net9.0\ref\CatalogoCursos-CSharp.dll
